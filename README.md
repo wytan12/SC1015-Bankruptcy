@@ -9,6 +9,7 @@ This README briefly highlights what we have accomplished in this project. If you
 ## Individual Contributions
 
 ## Problem Statement
+What determines a popular profile?
 
 ## Models Used
 
