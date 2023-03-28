@@ -1,4 +1,4 @@
-# SC1015-Lovoo-v3
+# SC1015-Company-Bankruptcy
 # Introduction
 Lab: B128 
 Group: 9
@@ -9,7 +9,7 @@ This README briefly highlights what we have accomplished in this project. If you
 ## Individual Contributions
 
 ## Problem Statement
-What makes a female profile popular on dating apps?
+
 
 ## Models Used
 
