@@ -11,7 +11,7 @@ Source: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-predictio
 ## Individual Contributions
 
 ## Problem Statement
-What are the factors that causes a company to go bankrupt and whether we can predict whether a company will go bankrupt.
+What are the factors that causes a company to go bankrupt and what's the best model to predict whether a company will go bankrupt.
 
 ## Models Used
 
