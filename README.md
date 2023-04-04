@@ -13,7 +13,7 @@ Source: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-predictio
 Ng Yuen Herng:
 1. XGboost
 2. SVM
-3. SHAP analysis
+3. SHAP Analysis
 
 Tan Wei Yin:
 1. Random Forest
