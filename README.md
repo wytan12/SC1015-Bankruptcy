@@ -9,6 +9,7 @@ With the collapse of large companies such as FTX and Silicon-Valley Bank, our gr
 Source: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download
 
 ## Individual Contributions
+
 Ng Yuen Herng:
 1. XGboost
 2. SVM
