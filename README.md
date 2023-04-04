@@ -14,6 +14,10 @@ Source: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-predictio
 What are the factors that causes a company to go bankrupt and what's the best model to predict whether a company will go bankrupt.
 
 ## Models Used
+1. K-Nearest Neighbors
+2. Random Forest
+3. SVM 
+4. XGBoost
 
 # Conclusion
 
