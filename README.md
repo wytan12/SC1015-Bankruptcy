@@ -22,7 +22,7 @@ Tan Wei Yin:
 
 Pearlina Tan Qinlin:
 1. Data Extraction
-2. Data Cleaning
+2. Data Analysis
 3. Data Transformation
 
 ## Problem Statement
