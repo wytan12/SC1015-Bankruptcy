@@ -20,7 +20,7 @@ What are the factors that causes a company to go bankrupt and what's the best mo
 4. XGBoost
 
 ## Models Evaluation
-1. ROU-AUC curve
+1. ROC-AUC curve
 2. SHAP
 
 # Conclusion
