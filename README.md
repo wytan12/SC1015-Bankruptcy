@@ -24,8 +24,11 @@ What are the factors that causes a company to go bankrupt and what's the best mo
 2. SHAP
 
 # Conclusion
+1. Random Forest is the best model to predict whether a company will go bankrupt or not, according to both ROC and F1 score metrics.
+2. The most important feature in determining Borrowing Dependency, contrary to what we had thought when calculating correlation coefficients
 
 ## What did we learn
+
 
 ## References
 
