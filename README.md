@@ -1,7 +1,7 @@
 # SC1015-Company Bankruptcy Prediction
 # Introduction
 Lab: B128 
-Group: 9
+Group: 7
 Members: Ng Yuen Herng, Tan Wei Yin, Pearlina Tan Qinlin
 
 With the collapse of large companies such as FTX and Silicon-Valley Bank, our group began to wonder what causes a company to go bankrupt. This gave us inspiration for our project on predicting whether a company would go bankrupt. The dataset we use is from Kaggle, and is sourced from the Taiwan Economic Journal from 1999 to 2009. In the case of the dataset, bankruptcy was based on the business regulations of the Taiwan Stock Exchange.
