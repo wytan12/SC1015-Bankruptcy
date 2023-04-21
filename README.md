@@ -43,7 +43,9 @@ What are the factors that causes a company to go bankrupt and what's the best mo
 2. The most important feature in determining Borrowing Dependency, contrary to what we had thought when calculating correlation coefficients
 
 ## What did we learn
-
+1. Handling imbalanced datasets using SMOTE
+2. K-Nearest Neighbors, Random Forest Classifier, SVM, XGBoost
+3. Concepts on ROC & AUC, and F1 Score
 
 ## References
 
