@@ -47,5 +47,5 @@ Pearlina Tan Qinlin:
 3. Data Transformation
 
 ## References
-https://www.google.com/amp/s/www.geeksforgeeks.org/data-science-tutorial/amp/
+https://www.google.com/amp/s/www.geeksforgeeks.org/data-science-tutorial/amp/ <br>
 https://towardsdatascience.com/smote-fdce2f605729
