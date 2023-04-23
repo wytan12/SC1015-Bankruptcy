@@ -48,5 +48,5 @@ What are the factors that causes a company to go bankrupt and what's the best mo
 3. Concepts on ROC & AUC, and F1 Score
 
 ## References
-
+https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
 
