@@ -47,5 +47,4 @@ Pearlina Tan Qinlin:
 3. Data Transformation
 
 ## References
-https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
-
+https://www.google.com/amp/s/www.geeksforgeeks.org/data-science-tutorial/amp/
