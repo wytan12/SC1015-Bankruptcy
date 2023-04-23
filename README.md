@@ -48,3 +48,4 @@ Pearlina Tan Qinlin:
 
 ## References
 https://www.google.com/amp/s/www.geeksforgeeks.org/data-science-tutorial/amp/
+https://towardsdatascience.com/smote-fdce2f605729
