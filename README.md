@@ -8,23 +8,6 @@ With the collapse of large companies such as FTX and Silicon-Valley Bank, our gr
 
 Source: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction?resource=download
 
-## Individual Contributions
-
-Ng Yuen Herng:
-1. XGboost
-2. SVM
-3. SHAP Analysis
-
-Tan Wei Yin:
-1. Random Forest
-2. KNN 
-3. ROC Curve Analysis
-
-Pearlina Tan Qinlin:
-1. Data Extraction
-2. Data Analysis
-3. Data Transformation
-
 ## Problem Statement
 What are the factors that causes a company to go bankrupt and what's the best model to predict whether a company will go bankrupt.
 
@@ -46,6 +29,23 @@ What are the factors that causes a company to go bankrupt and what's the best mo
 1. Handling imbalanced datasets using SMOTE
 2. K-Nearest Neighbors, Random Forest Classifier, SVM, XGBoost
 3. Concepts on ROC & AUC, and F1 Score
+
+## Individual Contributions
+
+Ng Yuen Herng:
+1. XGboost
+2. SVM
+3. SHAP Analysis
+
+Tan Wei Yin:
+1. Random Forest
+2. KNN 
+3. ROC Curve Analysis
+
+Pearlina Tan Qinlin:
+1. Data Extraction
+2. Data Analysis
+3. Data Transformation
 
 ## References
 https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
